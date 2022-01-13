@@ -1,4 +1,4 @@
-# table_plus
+# table_balaji
 
 Plugin supports for table search
 
